@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /success
+
+Sitemap: https://closepack.douglasebanks.com/sitemap.xml
